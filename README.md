@@ -5,3 +5,4 @@ utworzyć plan testu dla MRBUGGY 7
 2
 3
 4
+5 pruba wysłania na githuba
